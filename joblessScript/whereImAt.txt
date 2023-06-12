@@ -1,0 +1,13 @@
+https://www.codewars.com/dashboard
+
+https://www.youtube.com/watch?v=zJSY8tbf_ys&t=18176s
+https://chat.openai.com/?model=text-davinci-002-render-sha
+https://www.phind.com/
+https://www.codewars.com/kata/57f781872e3d8ca2a000007e/train/javascript
+https://www.tutorialspoint.com/javascript/array_filter.htm
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+
+reload the console with the below
+
+location.reload()
