@@ -1,12 +1,7 @@
 const arrowFunc = () => {console.log('arrow');}
 
 
-//https://www.youtube.com/watch?v=22fyYvxz-do
-/*
-ALL THESE VARIABLES TO BE USED AS LET TO KEEP THEM IN BLOCK SCOPE
-AVOID VAR TO AVOID HOISTING!!!!!!!!!!!!! YOU'RE GONNA GET YOURSELF FUCKED UP
-IF YOU DECLARE ALL THESE AS VARS AND YOU'VE GOT SHIT BEING REDECLARED EVERYWHERE
-*/
+
 
 
 
