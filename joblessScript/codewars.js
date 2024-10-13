@@ -252,7 +252,7 @@ return operations[operation](value1, value2);
 }
 //problem 15 split a string and convert it into an array of words.
 function stringToArray(string){}
-//solution 15 split at the frickin spaces you frickin frick
+//solution 15 split at the spaces.
 function stringToArray(string){
   return string.split(" ");
 }
@@ -261,7 +261,7 @@ function stringToArray(string){
 const stringToArray = (string) => string.split(" ");
 //problem 16
 function noSpace(x){}
-//solution 16 regex holy shit, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions The two \ \ identify that were looking for space,
+//solution 16 regex, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions The two \ \ identify that were looking for space,
 //the g syas find all within the string or 'global' and the , "" says replace with nothing. we trow that in the scope of .replace
 function noSpace(x){
   return x.replace(/ /g, "");
@@ -299,7 +299,7 @@ function hero(bullets, dragons){
     return false;
   }
 }
-//problem 19 FEEX ET
+//problem 19 fix it
 function arrayPlusArray(arr1, arr2) {
 return arr1 + arr2;
 }
