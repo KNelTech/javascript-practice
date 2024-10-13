@@ -7,20 +7,20 @@ string1.replace('k', 'd');
 console.log(string1);
 //"kodi"
 
-const newName = string1.replace('odi', 'awk');
+const newName = string1.replace('odi', 'andy');
 console.log(newName);
-//kawk
+//kandy
 
 string1.toUpperCase();
 //KODI
 
-let str2 = 'hello mf';
+let str2 = 'hello guy';
 
 const result = str2.toUpperCase().split(" ")
 console.log(result);
-//Array [ "HELLO", "MF" ]
+//Array [ "HELLO", "GUY" ]
 
-result.indexOf("MF");
+result.indexOf("GUY");
 //1
 
 
@@ -28,7 +28,7 @@ const step1 = str2.toUpperCase();
 
 const step2 = step1.split(" ");
 
-const step3 = step2.indexOf("mf");
+const step3 = step2.indexOf("andy");
 
 console.log(step3);
 //1
